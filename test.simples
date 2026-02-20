@@ -1,0 +1,31 @@
+// This is a single line comment
+/* This is a
+   multi-line comment */
+
+programa exemplo
+inicio
+    inteiro x
+    flutuante y
+    x = 42
+    y = 3.14
+    se (x > 10) entao
+        escreva("x is large")
+    senao
+        escreval("x is small")
+    fimse
+
+    // Numbers
+    123
+    123.456
+    1.2e3
+    1.2E-3
+
+    // Operators
+    + - * / = == != < > <= >=
+
+    // Delimiters
+    ; , ( ) { }
+
+    // Keywords
+    enquanto fimenquanto para de ate passo div
+fim
